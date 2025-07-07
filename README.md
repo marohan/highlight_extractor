@@ -14,7 +14,7 @@
 ### From GitHub
 
 ```bash
-pip install git+https://github.com/yourusername/highlight_extractor.git
+pip install git+https://github.com/marohan/highlight_extractor.git
 ```
 
 ### From PyPi
